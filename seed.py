@@ -14,3 +14,4 @@ if __name__ == '__main__':
     seeder = Seeder()
     seeder.populate_database()
     print("Seeding complete.")
+    print("Test commit")
